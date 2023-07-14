@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - print numbers from 00 to 99.
+ * main - 101-print_comb4.c
 (*
- * Return: 0 on success
+ * Return: 0
  */
 int main(void)
 {
