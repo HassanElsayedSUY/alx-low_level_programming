@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+/**
+ * main - explain the main function.
+ * another function - explain this other function.
+ * @a: explain this parameter
+ * @b: explain this parameter
+ * Return: its return 0 alwayes.
+ *
+ * Description: bla bla bla.
+ *
+ */
+int main(a, b)
+{
+	int x;
+
+	printf("Hello, World");
+
+return (0);
+}
