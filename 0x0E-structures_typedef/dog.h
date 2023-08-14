@@ -3,6 +3,7 @@
 
 /**
  * struct dog - a dog's basic info
+ * Return: 0
  */
 struct dog
 {
